@@ -4,7 +4,7 @@ Traffic congestion is a prevalent issue in urban areas worldwide, leading to inc
 
 https://github.com/samarth0104/Traffic-Management-System-Using-Unity/assets/144517774/7df224f6-cd11-42cc-9486-e86719b7a122
 
--Traffic signals are automated to optimize signal cycles based on lane occupancy, facilitating smooth traffic flow.
+- Traffic signals are automated to optimize signal cycles based on lane occupancy, facilitating smooth traffic flow.
 - Users can manually control traffic signals via a graphical interface, offering flexibility in response to specific traffic
 conditions or events..
 - The project utilizes Unity for environment creation and C Sharp for programming, ensuring immersive simulation
